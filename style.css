@@ -1,0 +1,86 @@
+h1 {
+  color: #8C271E;
+  font-family: Arial Black;
+
+}
+
+h2 {
+  color: #8C271E;
+  font-family: Arial Black;
+  font-size: 18;
+}
+
+h3 {
+  color: #8C271E;
+  font-family: Arial Black;
+  font-size: 14;
+}
+
+body {
+  background-color: #F6F6F6;
+  color: #595959;
+  font-family: Montserrat;
+  font-size: 14;
+
+}
+
+p {
+  text-align: justify;
+  font-size: 14;
+}
+
+a {
+  text-decoration: none;
+  color: #8C271E;
+  font-family: Arial;
+}
+
+.container {
+  width: 500px;
+  margin: auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.card {
+  background: white;                          /* White background */
+  padding: 25px;                              /* Internal space */
+  border-radius: 4px;                         /* Small radius */
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 20;
+  text-decoration: none;
+  }
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.list-inline {
+ text-decoration: none
+}
+
+.list-inline li {
+  display: inline;
+  padding-left: 0px;
+  text-decoration: none;
+}
+
+.links-font {
+  font-size: 18;
+  font-color: #8C271E;
+}
+
+.btn-red {
+  background-color: #8C271E;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
+}
